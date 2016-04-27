@@ -148,7 +148,7 @@ table {
 }
 
 @media (max-width: 768px) {
-  #content{
+  #page-content{
     margin-left: 0px;
   }
   #sidebar {
